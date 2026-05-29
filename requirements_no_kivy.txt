@@ -1,0 +1,7 @@
+numpy
+requests
+ephem
+matplotlib
+pyyaml
+flask
+streamlit
